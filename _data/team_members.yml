@@ -1,37 +1,37 @@
-- name: Stephan Sanders
-  photo: stephansanders.jpg
+- name: Marcus G Pezzolesi
+  photo: Marcus.jpeg
   info: Associate Professor
-  url: stephansanders
+  url: marcuspezzolesi
   group: 0
-  
-- name: Shan Dong
-  photo: shandong.jpg
-  info: Postdoctoral Scholar
-  url: shandong
-  group: 1
 
-- name: David Young
-  photo: davidyoung.jpg
-  info: Postdoctoral Scholar
-  url: davidyoung
-  group: 1
-
-- name: Nick Page
-  photo: nickpage.jpg
+- name: Chris Simeone
+  photo: ChrisLab.jpg
   info: Graduate Student
-  url: nickpage
+  url: chrissimeone
   group: 1
 
-- name: Clif Duhn
-  photo: clifduhn.jpg
-  info: Laboratory Manager
-  url: clifduhn
+- name: Joselin Hernandez
+  photo: joselin_hernandez.jpeg
+  info: Postdoc
+  url: joselinhernandez
+  group: 1
+
+- name: Brady Neeley
+  photo: brady_neeley.jpg
+  info: Bioinformatics Data Analyst, started April 2021
+  url: bradyneeley
   group: 2
 
-- name: Alessandra Aguilar
-  photo: alessandraaguilar.jpg
-  info: Staff Research Associate
-  url: alessandraaguilar
+- name: Melissa Pezzolesi
+  photo: rock.jpg
+  info: Study Coordinator
+  url: melissapezzolesi
+  group: 2
+
+- name: Karah Hall
+  photo: rock.jpg
+  info: Undergraduate Researcher
+  url: karahhall
   group: 2
 
 - name: Aileen Poquiz
@@ -132,12 +132,12 @@
   current: Instructor, Brandeis University
   extlink: https://www.brandeis.edu/facultyguide/person.html?emplid=decdc7873f5dc5d7658c2fbabd70047fd7d9cab0
 
-- name: Eddie Gao
-  info: Summer Intern
-  url: eddiegao
+- name: Karah Hall
+  info: Undergraduate Researcher
+  url: karahhall2
   group: 8
-  year: 2017
-  current: Undergraduate, UC Berkeley
+  year: 2021
+  current: Undergraduate, University of Utah
 
 - name: Alexandria Alpy
   info: Summer Intern

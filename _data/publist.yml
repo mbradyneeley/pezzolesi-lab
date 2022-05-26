@@ -1,3 +1,11 @@
+- title: "The Familiality of Rapid Renal Decline in Diabetes"
+  image: familialityFig.png
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6341306/
+    display: Frodsham et al. Diabetes (2019)
+  highlight: 1
+  news2:
+
 - title: "Constructing and optimizing 3D atlases from 2D data with application to the developing mouse brain"
   image: Young2021.png
   description: 

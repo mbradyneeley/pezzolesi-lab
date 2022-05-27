@@ -4,7 +4,7 @@ title: Marcus Pezzolesi
 position: Principal Investigator
 handle: marcuspezzolesi
 email: marcus.pezzolesi@hsc.utah.edu
-twitter: https://twitter.com/marcuspezzolesi?lang=en
+twitter: marcuspezzolesi
 github: PezzolesiLab
 scholar: 
 photo: Marcus.jpg

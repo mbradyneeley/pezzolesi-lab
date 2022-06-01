@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Data"
+title: "Pezzolesi Lab - Data"
 layout: textlay
-excerpt: "Sanders Lab -- Data."
+excerpt: "Pezzolesi Lab -- Data."
 sitemap: false
 permalink: /data/
 ---

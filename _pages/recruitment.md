@@ -1,5 +1,5 @@
 ---
-title: "Sanders Lab - Recruitment"
+title: "Pezzolesi Lab - Recruitment"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -8,21 +8,17 @@ permalink: /recruitment/
 
 # Open positions
 
-Thank you for your interest in joining the Sanders Lab.
+Thank you for your interest in joining the Pezzolesi Lab.
 
-## Graduate students
+## Post-Doctoral Research Fellow
 
-Dr. Sanders is a member of the [Neuroscience graduate program (part of PIBS)](https://neurograd.ucsf.edu/about-neuroscience-graduate-program) and the [Pharmaceutical Sciences and Pharmacogenomics (PSPG) graduate program](https://pspg.ucsf.edu), which is part of the [Quantitative Biosciences Consortium (QBC)](https://qbc.ucsf.edu). If you are interested in a rotation in the Sanders Lab, please contact Dr. Sanders directly using the details on his [USCF profile page](https://profiles.ucsf.edu/stephan.sanders). We are primarily a computational lab working on the genetics of neurodevelopmental disorders, so a background in coding and/or genetics helps students make the most of their rotation.
+We're looking for a talented post-doctoral research fellow to join our group!  If you're interested in discovering and studying the effects of high-impact risk variants for diabetes and diabetic kidney disease, please reach out (grant funded).
 
-If you are interested, please contact Dr. Sanders directly using the details on his [USCF profile page](https://profiles.ucsf.edu/stephan.sanders).
+## Bioinformatics Data Analyst
 
-## Postdoctoral researchers
+The Pezzolesi lab is seeking a bioinformatics data analyst to assist in analyzing high-throughput genetic data as part of several research projects that aim to investigate the basis of diabetes, diabetes-related complications, and chronic kidney disease using molecular biology, next-generation sequencing technology, and bioinformatics. The bioinformatics data analyst will be responsible for working independently, as well as part of a team, performing advanced genetic analysis (e.g., using GWAS and NGS analytical methods), and evaluating and reporting the results of these analyses. The bioinformatics data analyst will assist in the development and implementation of analytical workflows, evaluating data quality, analyzing data, validating results, and seeking ways to improve the analytical workflows. The bioinformatics data analyst may also assist in collecting and analyzing data, some of which may be obtained from retrospective medical record data or surveys.
 
-We have more data and research ideas than trainees, so are keen to recruit exceptional researchers. The lab offers a collaborative and supportive environment and has a strong track record in helping students develop and begin their own independent research careers. The lab has expertise in high-performance computing and analytical pipelines, allowing novel analytic methods to be performed at scale. We are currently looking for researchers with a strong computational background in:
+This position is considered Category I: Mandatory and required on campus or health care facilities to support on-site operations. Employees hired into this category will be required to be physically located at the work site if they are healthy and without COVID -19 symptoms.
 
-- Genomic and functional genomic analysis, including whole-genome sequencing, single-cell sequencing, and integrative analysis of genomic and functional genomic data 
-- Statistical analysis, including network analysis and quantitative trait analysis
-- Genetic therapies, including antisense oligonucleotides (ASOs), gene replacement, and CRISPR-based approaches for the treatment of rare genetic disorders in humans
-
-If you are interested, please contact Dr. Sanders directly using the details on his [USCF profile page](https://profiles.ucsf.edu/stephan.sanders).
+If you are interested, follow [this link](https://employment.utah.edu/salt-lake-city-ut/bioinformatics-data-analyst-i/A26CA75F47F745CDBD73DA59008DD5B8/job/) to learn more and apply.
 

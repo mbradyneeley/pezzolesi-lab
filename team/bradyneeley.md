@@ -7,7 +7,7 @@ email: brady.neeley@hsc.utah.edu
 twitter:
 github: mbradyneeley
 scholar: 
-linkedin: brady-neeley
+linkedin: brady-neeley-099621170
 photo: brady_neeley.jpg
 ucsf:
 ---

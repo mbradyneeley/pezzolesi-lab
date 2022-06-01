@@ -34,18 +34,6 @@
   url: karahhall
   group: 2
 
-- name: Aileen Poquiz
-  photo: aileenpoquiz.jpg
-  info: Administrative Officer
-  url: aileenpoquiz
-  group: 2
-      
-- name: Lindsay Liang
-  photo: lindsayliang.jpg
-  info: Bioinformatics Programmer II
-  url: lindsayliang
-  group: 3
-
 - name: Michael Gilson
   photo: michaelgilson.jpg
   info: Bioinformatics Programmer III

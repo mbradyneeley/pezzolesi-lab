@@ -2,7 +2,7 @@
   photo: brady_neeley.jpg
   info: Associate Professor
   url: marcuspezzolesi
-  group: 0
+  group: 1
 
 - name: Chris Simeone
   photo: brady_neeley.jpg
@@ -20,26 +20,26 @@
   photo: brady_neeley.jpg
   info: Bioinformatics Data Analyst, started April 2021
   url: bradyneeley
-  group: 2
+  group: 1
 
 - name: Melissa Pezzolesi
-  photo: rock.jpg
+  photo: missing.jpeg
   info: Study Coordinator
   url: melissapezzolesi
-  group: 2
+  group: 1
 
 - name: Karah Hall
-  photo: rock.jpg
+  photo: missing.jpeg
   info: Undergraduate Researcher
   url: karahhall
-  group: 2
+  group: 1
 
-- name: Michael Gilson
+- name: Scott Frodsham
   photo: michaelgilson.jpg
-  info: Bioinformatics Programmer III
+  info: Bioinformatics Data Analyst
   url: michaelgilson
   group: 8
-  year: 2015-2021
+  year: 2017-2021
 
 - name: Brooke Sheppard
   photo: brookesheppard.jpg

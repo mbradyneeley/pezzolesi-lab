@@ -34,12 +34,6 @@
   url: jonathangutierrez
   group: 1
 
-- name: Michael Lansford
-  photo: missing.jpeg
-  info: Rotational Grad Student
-  url: michaellansford
-  group: 1
-
 - name: Vismaya Kharkar
   photo: missing.jpeg
   info: Medical Student Researcher
@@ -56,6 +50,12 @@
   photo: missing.jpeg
   info: Undergraduate Researcher
   url: alexwiedemann
+  group: 1
+
+- name: Michael Lansford
+  photo: missing.jpeg
+  info: Rotational Grad Student
+  url: michaellansford
   group: 1
 
 - name: Scott Frodsham

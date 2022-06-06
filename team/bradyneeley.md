@@ -8,7 +8,7 @@ twitter:
 github: mbradyneeley
 scholar: 
 linkedin: brady-neeley-099621170
-photo: brady_neeley.jpg
+photo: brady_neeley_full.jpg
 ucsf:
 ---
 

@@ -7,7 +7,7 @@ email: marcus.pezzolesi@hsc.utah.edu
 twitter: marcuspezzolesi
 github: PezzolesiLab
 scholar: 
-photo: Marcus.jpeg
+photo: Marcus_full.jpeg
 ucsf: 
 ---
 

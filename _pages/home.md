@@ -43,6 +43,7 @@ permalink: /
   </a>
 </div>
 
+### Research
 
 The primary focus of our research is to understand the etiology of diabetes, diabetic complications, and chronic kidney disease using high-throughput next-generation sequencing technology and integrated ‘omics’-based approaches.  We know that genetic factors contribute to the susceptibility of diabetic kidney disease, the major complication facing patients with diabetes and the leading cause of end-stage renal disease in the United States.  However, despite intense effort, few predisposing genes and/or variants for this disease have been identified.  To accelerate these efforts, our laboratory is integrating large data resources, including electronic medical record data from the University of Utah Hospital and genealogical data from the Utah Population Database, and combining this with next-generation sequencing to perform whole genome sequencing-based gene discovery in families enriched for diabetic kidney disease.  This same approach is being applied to accelerate our search for genes that contribute to diabetes and chronic kidney disease.  Additionally, our laboratory is also investigating circulating microRNAs as novel biomarkers of kidney disease, including progressive renal function decline in patients with diabetes.
 
@@ -53,7 +54,7 @@ We work with closely with numerous collaborators, including the [Utah Population
 If you are interested in joining please go to the [recruitment](recruitment) page.
 
 ### Funding
-We are grateful for funding from the [National Institute of Mental Health](https://www.nimh.nih.gov/) and the [The Simons Foundation Autism Research Initiative](https://www.sfari.org/), the [Autism Science Foundation](https://autismsciencefoundation.org/), and the [Brain & Behavior Research Foundation](https://www.bbrfoundation.org/).
+We are grateful for funding from the [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/), the [Diabetic Complications Consortium](https://diacomp.org/), the [Driving Out Diabetes](https://healthcare.utah.edu/wellness/driving-out-diabetes/), and the [National Kidney Foundation of Utah and Idaho](https://www.kidneyut.org/). Additionally, we appreciate funding from the [Utah Genome Project](https://uofuhealth.utah.edu/center-genomic-medicine/research/utah-genome-project.php), [Janssen](https://www.janssen.com/), and [renalytix](https://renalytix.com/).
 
 <figure class="third">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pezz_NIDDKD.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pezz_NIDDK_Pilot_Award.png" style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pezz_driving_out_diabetes.png" style="width: 200px">

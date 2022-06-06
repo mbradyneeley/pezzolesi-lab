@@ -4,7 +4,8 @@ title: Vismaya Kharkar
 position: Medical Student Researcher
 handle: vismayakharkar
 email: vismaya.kharkar@hsc.utah.edu
-twitter: vismaya-kharkar-8b0643155
+twitter:
+linkedin: vismaya-kharkar-8b0643155
 scholar: 
 photo: Vismaya_full.jpg
 ucsf: 

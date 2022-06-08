@@ -1,6 +1,6 @@
 ---
 title: "Pezzolesi Lab - Publications"
-layout: gridlay
+layout: gridlay_pubs
 excerpt: "Pezzolesi Lab -- Publications."
 sitemap: false
 permalink: /publications/

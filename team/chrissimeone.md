@@ -12,12 +12,10 @@ ucsf:
 ---
 
 ### Overview
-Vismaya Kharkar is a second-year medical student at UUSOM with a passion for understanding the genetic and socioeconomic factors predicting outcomes of chronic disease. As a member of the Pezzolesi lab, she is investigating genetic variants in cohorts of patients with diabetes and diabetic kidney disease (DKD) to understand how genetics may play a role in disease progression.
+Chris Simeone is a fourth-year graduate student in the Department of Human Genetics investigating the role of genetic variation underlying de novo sphingolipid genes in metabolic disease. Currently, Chris’ projects focus on understanding rare variation in these genes within cohorts of patients with diabetic kidney disease (DKD) and common variation for circulating sphingolipid profiles in patients. Prior to his graduate education, Chris worked at the Joslin Diabetes Center in the laboratory of Andrzej Krolewski, MD, PhD, where he focused on identifying novel protein biomarkers in patients with DKD.
  
-As an undergraduate, she conducted computational genetics research seeking to understand the evolutionary development of human joints with Dr. Terence Capellini in the Harvard Department of Human Evolutionary Biology. Her thesis entitled “Double-Jointed: A Dual Approach to Studying Developmental Gene Expression Differences Between Human and Mouse Limb Joints” was awarded high honors by the department.
- 
-In her free time, she likes to draw and go on hikes with her dog.
+In his free time, Chris likes weight lifting and cooking!
 
 ### Education
-- A.B. in Human Evolutionary Biology with a secondary in Archaeology, Harvard 2021
-- M.D., UUSOM, anticipated 2025
+- B.S., Bates College, Lewiston, ME, 2016
+- PhD., University of Utah, Salt Lake City, UT, anticipated 2023

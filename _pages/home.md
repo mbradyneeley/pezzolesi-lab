@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to the Pezzolesi Lab
+# Welcome to the Pezzolesi Lab at the University of Utah
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >

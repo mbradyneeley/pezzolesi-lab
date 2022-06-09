@@ -6,7 +6,7 @@ handle: joselinhernandez
 email: joselin.hernandez@hsc.utah.edu
 twitter:
 linkedin: 
-orchid: 0000-0002-0571-2563
+orcid: 0000-0002-0571-2563
 scholar: 
 photo: joselin_hernandez.jpeg
 ucsf: 

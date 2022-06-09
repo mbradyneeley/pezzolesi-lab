@@ -7,7 +7,7 @@ email: christopher.simeone@utah.edu
 twitter:
 linkedin: 
 scholar: 
-photo: chris_full.jpg
+photo: chris.jpg
 ucsf: 
 ---
 

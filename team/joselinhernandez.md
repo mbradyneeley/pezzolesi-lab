@@ -7,7 +7,7 @@ email: joselin.hernandez@hsc.utah.edu
 twitter:
 linkedin: 
 scholar: 
-photo: joselin_hernandez_full.jpg
+photo: joselin_hernandez.jpg
 ucsf: 
 ---
 

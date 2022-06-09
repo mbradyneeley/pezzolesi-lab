@@ -7,7 +7,7 @@ email: vismaya.kharkar@hsc.utah.edu
 twitter:
 linkedin: vismaya-kharkar-8b0643155
 scholar: 
-photo: Vismaya_full.jpg
+photo: Vismaya.jpg
 ucsf: 
 ---
 

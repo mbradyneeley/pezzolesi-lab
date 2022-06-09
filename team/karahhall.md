@@ -7,7 +7,7 @@ email: u1240199@utah.edu
 twitter:
 linkedin: 
 scholar: 
-photo: karah_full.jpg
+photo: karah.jpg
 ucsf: 
 ---
 

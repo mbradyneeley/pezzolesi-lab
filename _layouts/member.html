@@ -60,6 +60,18 @@ layout: default
 		<div class="bigspacer"></div>
 		{% endif %}
 
+        {% if member.orchid %}
+		<div class="smallhead">
+			Orchid
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="ai ai-orchid"></i>
+			<a class="off" href="https://orcid.org/{{ member.orchid }}">{{ member.title }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
 		{% if member.scholar %}
 		<div class="smallhead">
 			Google Scholar

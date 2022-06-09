@@ -12,7 +12,7 @@ ucsf:
 ---
 
 ### Overview
-I am an undergraduate student at the University of Utah majoring in Business Entrepreneurship with a minor in Chemistry, and currently on a pre podiatry track. I am assisting graduate student Chris Simeone in Dr. Marcus Pezzolesi lab focusing on identifying genetic determinants of circulating sphingolipids.
+Alex is an undergraduate student at the University of Utah majoring in Business Entrepreneurship with a minor in Chemistry, and currently on a pre podiatry track. He is assisting graduate student Chris Simeone the lab focusing on identifying genetic determinants of circulating sphingolipids.
 
 ### Education
 - B.S., Business Entrepreneurship, minor in Chemistry, anticipated ...

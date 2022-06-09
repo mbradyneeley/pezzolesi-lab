@@ -17,5 +17,5 @@ Chris Simeone is a fourth-year graduate student in the Department of Human Genet
 In his free time, Chris likes weight lifting and cooking!
 
 ### Education
-- B.S., Bates College, Lewiston, ME, 2016
-- PhD., University of Utah, Salt Lake City, UT, anticipated 2023
+- B.S., Biology, Bates College, Lewiston, ME, 2016
+- PhD., Molecular Biology, University of Utah, Salt Lake City, UT, anticipated 2023

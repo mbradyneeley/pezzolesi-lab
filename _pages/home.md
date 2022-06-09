@@ -54,7 +54,7 @@ The primary focus of our research is to understand the etiology of diabetes, dia
 ### Collaborators
 We work with closely with numerous collaborators, including the [Utah Population Database](https://uofuhealth.utah.edu/huntsman/utah-population-database/) and the [University of Utah Health Sciences Center](https://uofuhealth.utah.edu/). We also collaborate with the [Joslin Diabetes Center](https://www.joslin.org/).
 
-### Joining Pezzolesi Lab
+### Joining the Pezzolesi Lab
 If you are interested in joining please go to the [recruitment](recruitment) page.
 
 ### Funding

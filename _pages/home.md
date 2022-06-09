@@ -7,10 +7,7 @@ permalink: /
 ---
 
 # Welcome to the Pezzolesi Lab 
-<p align="center">
-    @ The University of Utah
-</p>
-### @ The University of Utah
+###### @ The University of Utah
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >

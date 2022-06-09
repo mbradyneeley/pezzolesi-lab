@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to the Pezzolesi Lab at UU
+# Welcome to the Pezzolesi Lab
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >

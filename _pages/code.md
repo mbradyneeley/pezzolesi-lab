@@ -16,7 +16,7 @@ permalink: /code/
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/codepic/egfrPlotter.png" style="width: 300px"> 
 
-**UNDER CONSTRUCTION** This is an RShiny app originally developed by Scott Frodsham that assists users in plotting patient eGFR data.
+This is an RShiny app originally developed by Scott Frodsham that assists users in plotting patient eGFR data.
 
 - <a href="https://github.com/PezzolesiLab/eGFR-Visualization-Tool"><i class='fab fa-github'></i> Source</a>
 

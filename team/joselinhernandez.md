@@ -8,7 +8,7 @@ twitter:
 linkedin: 
 orchid: 0000-0002-0571-2563
 scholar: 
-photo: joselin_hernandez.jpg
+photo: joselin_hernandez.jpeg
 ucsf: 
 ---
 

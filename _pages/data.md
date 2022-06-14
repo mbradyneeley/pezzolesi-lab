@@ -1,12 +1,12 @@
 ---
-title: "Pezzolesi Lab - Data"
+title: "Pezzolesi Lab - Participation"
 layout: textlay
-excerpt: "Pezzolesi Lab -- Data."
+excerpt: "Pezzolesi Lab -- Participation."
 sitemap: false
 permalink: /participation/
 ---
 
-# Data
+# Participate in Our Studies
 
 ---
 

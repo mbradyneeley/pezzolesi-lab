@@ -9,6 +9,7 @@ permalink: /contact/
 # Contact
 
 marcus.pezzolesi@hsc.utah.edu
+<br/>
 413B Wintrobe Building
 
 ## Lab Location

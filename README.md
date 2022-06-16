@@ -3,7 +3,7 @@
 ## Making Changes to the Website
 * **Adding a new team member**
   * Get a photo from them, open it in apple photos, then click 3 things in this order: edit, crop, square. Save the photo from apple photos to either your local copy of the webpage or the github repository of the webpage. Put it in the folder `pezzolesi-lab/images/teampic`.
-  * Open `pezzolesi-lab/_data/team_members.yml` and add a new team member. Follow the format you see in the file EXACTLY with the dash, spaces, tabs, etc (**THIS IS THE PRACTICE YOU SHOULD USE THROUGHOUT YOUR UPDATES OF THE WEBPAGE**). Edit it accordingly including with whatever file type extension your picture is (Of course use their name instead of wherever it says lab member):
+  * Open `pezzolesi-lab/_data/team_members.yml` and add a new team member. Follow the format you see in the file EXACTLY as seen, with the dash, spaces, tabs, etc (**THIS IS THE PRACTICE YOU SHOULD USE THROUGHOUT YOUR UPDATES OF THE WEBPAGE**). Edit it accordingly including with whatever file type extension your picture is (Of course use their name instead of wherever it says lab member):
   ```
   -name: New Lab Member
    photo: labmember.png

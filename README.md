@@ -19,6 +19,7 @@
   * Like you do when adding a new team member, edit the fields in the file `_data/publist.yml` for the publication.
 
 * **Adding Research**
+ * `_pages/research.md`
 
 * **Changing the Home Page**
   * Adding new photos to the slider

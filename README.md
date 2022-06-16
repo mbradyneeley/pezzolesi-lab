@@ -19,13 +19,19 @@
   * Like you do when adding a new team member, edit the fields in the file `_data/publist.yml` for the publication.
 
 * **Adding Research**
- * `_pages/research.md`
+ * Open the file `_pages/research.md` and create a new section based off of the other research files. Place text between the <div></div> tags. If you want to add links to any of the text such as links to papers, etc do this: \[So and so's paper, et. al.](https://link-to-paper-here-in-parenthesis.com). To add an image, look for this above the text block and change the file to your image which you should put in the `images/respic` folder: <br/>
+\![]({{ site.url }}{{ site.baseurl }}/images/respic/scn2aMut.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+
 
 * **Changing the Home Page**
-  * Adding new photos to the slider
+  * Changing photos on the slider
+    * This one is a little trickier especially if you are adding or removing images because that requires some extra changes. Open up `_pages/home.md` and you should see some html with the word carousel and then some markdown text below the html block. In the html block, you'll see a list of items and each item has a path to an image. Make sure your image has been cropped with apple photos to a 3:2 aspect ratio, save it to the foler `images/slider7001400`. The images show in order of how the list is ordered, so replace an image wherever in the list that you would like your image to be. If you want to add it as an additional image instead of replacing another, copy the three lines making up an item of the list, make it the next numbered slide (if there are 5 current slides, make it 'Slide 6') and add your photo's filename to it. Then at the top of the html block you'll see carousel indicators, add a new data slide row to that, incrementing your new slide's number (for slide 6 you would make data-slide-to="5" because they start at 0).
+
   * Editing the Text Fields 
+    * Below the html block in the file `_pages/home.md`, you can write whatever you like, easily renaming, adding or changing sections. It is all in github markdown syntax which is easily learned and there are plenty of guides on the internet. A new heading is made like so: \###My Research. Then hit 'enter', start a new line and type away.
 
 * **Adding to the News Bar on the Homepage**
+  * This is easy. Open up the file `_data/news.yml` and copy what is already there. Add a date and a headline using the exact same formatting as the rest of the file. If you want to add a link from some text to a webpage add this in the middle of your sentence in the headline: \<a href='https://your-link.com'>Whatever you type right here will be blue and linked to the link you provided</a>. Unfortunately, adding videos is pretty tricky, if you want to do that, you can try and replicate what I did for the 15 July, 2019 news headline. I made the photo thumbnail, and added it to images and the rest was tricky html which you can see in that news headline.
 
 * **Adding to the Code Page**
 

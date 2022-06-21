@@ -13,6 +13,7 @@
    ```
    * Now we are going to add their photo and bio to their personal info/overview page. Make a new file for them `pezzolesi-lab/team/newlabmembersname.md`, I would open it side by side with an already existing overview markdown file like `pezzolesi-lab/team/marcuspezzolesi.md` and just copy over everything from Marcus' file and edit it for the new lab member.
    * If you want to remove someone, just do the opposite. Delete their markdown file from the `team/` directory and remove their lines from the `_data/team_members.yml` file. You can leave or delete their image, doesn't really matter if you've done the other two steps.
+   * Adding someone as alumni: Simply put their group number as 8 instead of 1.
 
 * **Adding a new publication**
   * Add a photo for your publication to `pezzolesi-lab/images/pubpic`, vertical pictures look better than horizontal. 

@@ -1,5 +1,7 @@
 # Pezzolesi Lab
 
+**Domain name pezzolesi-lab.com rolls over yearly on June 28th**
+
 ## Making Changes to the Website
 * **Adding a new team member**
   * Get a photo from them, open it in apple photos, then click 3 things in this order: edit, crop, square. Save the photo from apple photos to either your local copy of the webpage or the github repository of the webpage. Put it in the folder `pezzolesi-lab/images/teampic`.

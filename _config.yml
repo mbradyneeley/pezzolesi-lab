@@ -9,7 +9,7 @@
 title: The Pezzolesi Lab
 email: your-email@domain.com
 description: 
-baseurl: "/pezzolesi-lab"
+baseurl: ""
 url: "https://pezzolesi-lab.com"
 
 include:
